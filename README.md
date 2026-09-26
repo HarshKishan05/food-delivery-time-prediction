@@ -332,7 +332,7 @@ Possible improvements include:
 
 **Harsh Kishan**
 
-B.Tech — Artificial Intelligence & Machine Learning
-Roll No.BTECH/15145/24
-AIML Branch,3rd Year(5th Semester)
-Birla Institute of Technology, Patna
+* B.Tech — Artificial Intelligence & Machine Learning
+* Roll No.BTECH/15145/24
+* 3rd Year(5th Semester)
+
