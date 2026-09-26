@@ -1,0 +1,7 @@
+Zomato_Dataset.csv
+Zomato_Dataset.xlsx
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
