@@ -7,8 +7,12 @@ import joblib
 # =========================================
 # LOAD TRAINED MODEL
 # =========================================
+@st.cache_resource
+def load_model():
+    return joblib.load("food_delivery_time_model.pkl")
 
-model = joblib.load("food_delivery_time_model.pkl")
+model = load_model()
+
 
 
 # =========================================
