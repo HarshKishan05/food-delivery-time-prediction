@@ -106,10 +106,10 @@ with col2:
     type_of_vehicle = st.selectbox(
         "Type of Vehicle",
         [
-            "Motorcycle",
-            "Scooter",
-            "Electric_scooter",
-            "Bicycle"
+            "motorcycle",
+            "scooter",
+            "electric_scooter",
+            "bicycle"
         ]
     )
 
