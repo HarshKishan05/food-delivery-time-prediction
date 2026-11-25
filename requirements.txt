@@ -3,3 +3,6 @@ pandas
 numpy
 scikit-learn==1.8.0
 joblib
+requests
+folium
+streamlit-folium
